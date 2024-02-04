@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\PG-DAC\JAVA EE\LabWork\.metadata\.plugins\org.eclipse.jdt.core
+1158579934.index
+310065850.index
+2565356412.index
+1865797976.index

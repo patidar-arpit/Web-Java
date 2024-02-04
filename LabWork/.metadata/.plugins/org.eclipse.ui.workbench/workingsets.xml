@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1700039484934_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1700039484981_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701009026368_3" label="web_maven_hibernate" name="web_maven_hibernate">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day10_IPL_HIBERNATE" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701102874024_4" label="day11.1" name="day11.1"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701171659444_5" label="day12.1" name="day12.1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day12.1" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701198562019_6" label="test_spring" name="test_spring">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/test_spring" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701279293539_7" label="" name="">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day13.2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day13.3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day13.4" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1701441781256_8" label="day14_spring_mvc" name="day14_spring_mvc">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day14_spring_mvc" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1700039535222_2" label="Window Working Set" name="Aggregate for window 1700039535221"/>
+</workingSetManager>
