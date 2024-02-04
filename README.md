@@ -1,0 +1,1 @@
+Repository Contains the basic projects on the web java technologies like JDBC,Servlet,Hibernate,JSP,Spring,Spring-boot,Rest APIs.
