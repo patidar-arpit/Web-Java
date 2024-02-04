@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<!-- dependent bean config -->
+	<bean id="my_atm" class="dependent.ATMImpl" init-method="myInit"
+		destroy-method="myDestroy" >
+		<constructor-arg name="money" value="5000.0" />
+		<property name="notification" ref="sms" />
+	     <property name="myTransport" ref="http" />
+		
+	</bean>
+	<!-- configure dependency bean -->
+	<bean id="http" class="dependency.HttpTransport"/>
+	
+	<bean id="email" class="dependency.EmailBasedNotification" />
+	<bean id="sms" class="dependency.SmsBasedNotification" />
+
+
+</beans>
